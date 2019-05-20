@@ -26,7 +26,7 @@ Module AhoraEs
 
     End Sub
 
-    Function Hora()
+    Function Hora() As String
 
         Return (Now.Hour & ":" & Now.Minute & ":" & Now.Second)
 
