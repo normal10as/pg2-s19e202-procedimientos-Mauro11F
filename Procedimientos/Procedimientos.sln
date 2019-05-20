@@ -9,6 +9,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nueva_Fecha", "Nueva_Fecha\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hipotenusa", "Hipotenusa\Hipotenusa.vbproj", "{E518DBE6-205E-44A5-951F-303D937D18B8}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VolumenCilindro", "VolumenCilindro\VolumenCilindro.vbproj", "{84448EA1-058A-42EF-AF68-0C2D4B7A8C7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E518DBE6-205E-44A5-951F-303D937D18B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E518DBE6-205E-44A5-951F-303D937D18B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E518DBE6-205E-44A5-951F-303D937D18B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84448EA1-058A-42EF-AF68-0C2D4B7A8C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84448EA1-058A-42EF-AF68-0C2D4B7A8C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84448EA1-058A-42EF-AF68-0C2D4B7A8C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84448EA1-058A-42EF-AF68-0C2D4B7A8C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
